@@ -5,10 +5,9 @@ repository is here and you can use it as an example, or in Actions. However plea
 we are not going to be updating issues or pull requests on this repository.
 
 **Maintained Actions:**
-* [elgohr/Github-Release-Action](https://github.com/elgohr/Github-Release-Action)
-* [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases)
-* [softprops/action-gh-release](https://github.com/softprops/action-gh-release)
-* [ncipollo/release-action](https://github.com/ncipollo/release-action)
+* [Unity-Billal-mesloub/Github-Release-Action](https://github.com/Unity-Billal-mesloub/Github-Release-Action)
+* [Unity-Billal-mesloub/action-gh-release](https://github.com/Unity-for-Unity-Manufacturing/action-gh-release)
+* [Unity-Billal-mesloub/release-action](https://github.com/Unity-Billal-mesloub/typescript-action)
 
 
 To reflect this state we’ve marked this repository as Archived.
@@ -21,7 +20,7 @@ If you have found a security issue [please submit it here](https://hackerone.com
 
 This GitHub Action (written in JavaScript) wraps the [GitHub Release API](https://developer.github.com/v3/repos/releases/), specifically the [Create a Release](https://developer.github.com/v3/repos/releases/#create-a-release) endpoint, to allow you to leverage GitHub Actions to create releases.
 
-<a href="https://github.com/actions/create-release"><img alt="GitHub Actions status" src="https://github.com/actions/create-release/workflows/Tests/badge.svg"></a>
+<a href="https://github.com/Unity-Billal-mesloub/create-release"><img alt="GitHub Actions status" src="https://github.com/Unity-Billal-mesloub/create-release/workflows/Tests/badge.svg"></a>
 
 ## Usage
 ### Pre-requisites
@@ -47,7 +46,7 @@ The `body_path` is valuable for dynamically creating a `.md` within code commits
 For more information on these outputs, see the [API Documentation](https://developer.github.com/v3/repos/releases/#response-4) for an example of what these outputs look like
 
 - `id`: The release ID
-- `html_url`: The URL users can navigate to in order to view the release. i.e. `https://github.com/octocat/Hello-World/releases/v1.0.0`
+- `html_url`: The URL users can navigate to in order to view the release. i.e. 
 - `upload_url`: The URL for uploading assets to the release, which could be used by GitHub Actions for additional uses, for example the [`@actions/upload-release-asset`](https://www.github.com/actions/upload-release-asset) GitHub Action
 
 ### Example workflow - create a release
