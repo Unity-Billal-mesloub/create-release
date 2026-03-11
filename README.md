@@ -6,7 +6,7 @@ we are not going to be updating issues or pull requests on this repository.
 
 **Maintained Actions:**
 * [Unity-Billal-mesloub/Github-Release-Action](https://github.com/Unity-Billal-mesloub/Github-Release-Action)
-* [Unity-Billal-mesloub/action-gh-release](https://github.com/Unity-for-Unity-Manufacturing/action-gh-release)
+* [Unity-for-Unity-Manufacturing/action-gh-release](https://github.com/Unity-for-Unity-Manufacturing/action-gh-release)
 * [Unity-Billal-mesloub/release-action](https://github.com/Unity-Billal-mesloub/typescript-action)
 
 
