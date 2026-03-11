@@ -1,8 +1,8 @@
 ## Contributing
 
-[fork]: https://github.com/actions/create-release/fork
-[pr]: https://github.com/actions/create-release/compare
-[style]: https://github.com/styleguide/js
+[fork]: https://github.com/Unity-Billal-mesloub/create-release/fork
+[pr]: https://github.com/Unity-Billal-mesloub/create-release/
+[style]: https://primer.style/
 [code-of-conduct]: CODE_OF_CONDUCT.md
 
 Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
@@ -17,7 +17,7 @@ Please note that this project is released with a [Contributor Code of Conduct][c
 2. Configure and install the dependencies: `npm install`
 3. Make sure the tests pass on your machine: `npm run test`
 4. Create a new branch: `git checkout -b my-branch-name`
-5. Make your change, add tests, and make sure the tests still pass
+5. Make your change, add tests, and make sure the tests still pass[submit a pull request][style]
 6. Push to your fork and [submit a pull request][pr]
 7. Pat your self on the back and wait for your pull request to be reviewed and merged.
 
